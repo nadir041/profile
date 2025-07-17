@@ -3,7 +3,7 @@
 **Web Developer | Laravel**
 
 ---
-<img align="right" height="150" src="https://avatars.githubusercontent.com/u/92378512?v=4" />
+<img align="right" height="150" src="https://avatars.githubusercontent.com/u/127302370?v=4" />
 
 ### About Me
 I am a passionate Web Developer specializing in Laravel with a strong foundation in creating dynamic and responsive web applications. As a beginner UI/UX designer with proficiency in Figma, I excel at designing user-centered interfaces that enhance functionality and provide seamless user experiences. My commitment to quality and attention to detail ensures the delivery of innovative solutions tailored to meet client requirements. With a focus on continuous learning and improvement, I aim to leverage my expertise to contribute to impactful projects and drive meaningful results.
